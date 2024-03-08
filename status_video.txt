@@ -1,0 +1,8 @@
+video: https://www.youtube.com/watch?v=pNlHlhWDpV0&list=PL3gEA6Xsr_enTjEeyAyLrqdJmEFM8FvwM
+
+notion: https://grizzly-amaranthus-f6a.notion.site/Aula-01-56d28e7d221b4cbb87d2cbb6e54381f2
+
+github https://github.com/Pythonando/mecajato.git
+https://github.com/Pythonando/mecajato
+
+07/03/2024 parou em 35:22 de 1h 39:30
