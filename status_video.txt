@@ -5,4 +5,4 @@ notion: https://grizzly-amaranthus-f6a.notion.site/Aula-01-56d28e7d221b4cbb87d2c
 github https://github.com/Pythonando/mecajato.git
 https://github.com/Pythonando/mecajato
 
-07/03/2024 parou em 35:22 de 1h 39:30
+07/03/2024 parou em 35:22 de 1h 39:30.
