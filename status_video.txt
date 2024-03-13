@@ -6,3 +6,4 @@ github https://github.com/Pythonando/mecajato.git
 https://github.com/Pythonando/mecajato
 
 07/03/2024 parou em 35:22 de 1h 39:30.
+12/03/2024 parou em 1:11:21 de 1h 39:30.
