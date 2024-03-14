@@ -6,7 +6,7 @@ class Cliente(models.Model):
     email = models.EmailField(max_length=50)
     cpf = models.CharField(max_length=11)
 
-    def __str__(self) -> str:
+    def _str_(self) -> str:
         return self.nome
 
 class Carro(models.Model):
@@ -17,5 +17,5 @@ class Carro(models.Model):
     lavagens = models.IntegerField(default=0)
     concertos = models.IntegerField(default=0)
 
-    def __str__(self) -> str:
+    def _str_(self) -> str:
         return self.carro
